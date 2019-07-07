@@ -1,4 +1,4 @@
-site_name: CPUchain Core;
+site_name: CPUchain Core
 
 theme:
   name: 'material'
@@ -14,8 +14,6 @@ extra:
       link: 'https://twitter.com/cpuchain'
     - type: 'telegram'
       link: 'https://t.me/cpuchaincore'
-    - type: 'discord'
-      link: 'https://discord.io/cpuchain'
     - type: 'reddit'
       link: 'https://reddit.com/u/cpuchain'
     - type: 'bitcoin'
