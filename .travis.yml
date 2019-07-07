@@ -10,11 +10,11 @@ script: true
 before_deploy:
     - mkdocs build --verbose --clean --strict
 
-#deploy:
-#    provider: pages
-#    skip_cleanup: true
-#    api_key:
-#      secure:
-#    local_dir: site
-#    on:
-#        branch: master
+deploy:
+    provider: pages
+    skip_cleanup: true
+    api_key:
+      secure: wEk7k5ML/DRG5Mwx9CQKWaFDmeMMNLLOvgPZznweUSuuMj/+pifcB8Bp8AlHte3Amz0E1fIrRrr5Erm8ZGwvjuRLvl5HDJZIHpzeBjiu2/CSRkbZ5aYio6d8dru10ux++IAeZqTw2FfFaRLwEKE5VoW8KEm346e+zcvqSPVXimLu6g8w3xH27nW2jBl6LWPB/HC93R5rqf5iQNW6X0lOOVPRhWRx2Q5im/IwjzoutUGY0hXt60qw2awH/UXtS8ykq3kOeTBO/TBt8dKYbPqBSrrBQwbam80q2VNRxCz0LafUWbkiWmL6MDnknsXy3mqEpfcQBf5QGcmv69CmRKH+ZAZN9fvdH83KPhc0b7d7YsyTglnWidG/O45g7F4SU91+R+l8ZDUOe0Yk9LuU6HQyUhSBid+YXEVaXHzkp7cnFZ1oVghbsgXKLGAvwP10Iydr9dtBY/1xr/J6zLFN9SCs/dRL2BD/UkNvo8r0kbBFcgELsDXz5O5C+dVRDZxI5hn1D9ZobCtc5kDL9PzCaOwjc32BAU8319VjSVZ3HAwLZUMkAxjt5VDezFOCb3fm2uUw4IbMsbLJoMvhyyNOfuu/fasHYSQwS7caxhWVuvpcyBLJswPXefoSp1+oy1xv3LOZS9/j3nCaeiBRJAAWy6pnMKI87NUKY8FQK2EGh8nj90g=
+    local_dir: site
+    on:
+        branch: master
