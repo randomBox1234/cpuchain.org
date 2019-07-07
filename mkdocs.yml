@@ -1,0 +1,24 @@
+site_name: CPUchain Core;
+
+theme:
+  name: 'material'
+  logo: 'cpuchain.png'
+  favicon: 'cpuchain.png'
+
+nav:
+  - Home: index.md
+
+extra:
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/cpuchain'
+    - type: 'telegram'
+      link: 'https://t.me/cpuchaincore'
+    - type: 'discord'
+      link: 'https://discord.io/cpuchain'
+    - type: 'reddit'
+      link: 'https://reddit.com/u/cpuchain'
+    - type: 'bitcoin'
+      link: 'https://bitcointalk.org/index.php?topic=5161183.0'
+    - type: 'github'
+      link: 'https://github.com/cpuchain/cpuchain'
