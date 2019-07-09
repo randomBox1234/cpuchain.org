@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/cpuchain/cpuchain.org.svg?branch=master)](https://travis-ci.org/cpuchain/cpuchain.org)
 
-Homepage of CPUchain Core project built with [Meterial for MkDocs](https://squidfunk.github.io/mkdocs-material)
+Homepage of CPUchain Core project built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material)
 
 Found out more: https://cpuchain.org
 
