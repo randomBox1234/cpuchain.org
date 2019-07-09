@@ -20,4 +20,4 @@ Coming soon with our native android CPUchain mining app.
 
 Download the unofficial cpuminer-opt mining program, you may be able to use them on your laptop, desktop, or linux servers to mine CPUchain.
 
-[Download from pool.rplant.xyz](https://pool.rplant.xyz/getting_started)
+[Download from Github](https://github.com/minkcrypto/cpuminer-opt/releases/latest)
